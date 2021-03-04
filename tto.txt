@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hola tto 4
+=======
+hola tto 5
+>>>>>>> 0c0abaa62280a6291740c9c82aea458ee6a0d8bc
